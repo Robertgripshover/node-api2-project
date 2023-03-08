@@ -1,5 +1,11 @@
 # Server Side Routing Module Project
 
+I left notes in:
+posts-router.js
+posts-model.js
+index.js
+server.js
+
 ## Introduction
 
 Use `Node.js` and `Express` to build an API that performs _CRUD_ operations on `blog posts`.
